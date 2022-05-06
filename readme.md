@@ -1,3 +1,7 @@
+# Registration Form
+
+## Coding Dojo Core Assignment
+
 ## Objectives
 
 * Practice recreating the staple of many websites, a Registration Form
